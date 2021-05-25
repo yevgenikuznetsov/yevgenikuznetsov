@@ -1,6 +1,8 @@
-### Hi there 👋
+![Comp 11](https://user-images.githubusercontent.com/49569713/119497142-e28de600-bd6c-11eb-9155-f25022c95252.gif)
+
 
 <!--
+### Hi there 👋
 **yevgenikuznetsov/yevgenikuznetsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
