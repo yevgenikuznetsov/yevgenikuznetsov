@@ -1,6 +1,6 @@
 ![Comp 11 (1)](https://user-images.githubusercontent.com/49569713/119498420-47960b80-bd6e-11eb-8d87-551e0bd51305.gif)
 
-### Languages and Tools
+## Languages and Tools
 ### My top skills
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
